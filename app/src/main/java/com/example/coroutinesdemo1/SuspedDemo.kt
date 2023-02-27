@@ -5,6 +5,6 @@ class SuspedDemo {
 
     }
     private suspend fun secondFunction(){
-        
+
     }
 }
